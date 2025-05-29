@@ -16,7 +16,8 @@ O projeto consiste na criação de uma ferramenta prática em Excel para simular
 
 A planilha permite calcular o valor total investido, o patrimônio acumulado e os dividendos mensais, ajudando o usuário a entender melhor o impacto de seus investimentos ao longo do tempo. Este modelo pode ser usado como base para futuras expansões e personalizações, oferecendo uma solução prática e acessível para investidores iniciantes.
 
-![Ferramenta de Controle de Investimentos no Excel.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Ferramenta de Controle de Investimentos no Excel.](imagens/app1.PNG)
+![fig2](imagens/app2.PNG)
 
 De maneira intuitiva a planilha a partir das simulações auxilia o usuário a tomar decisões mais informadas sobre seus investimentos. A solução proposta visa automatizar cálculos complexos, como o valor total investido, o patrimônio acumulado e os dividendos mensais, proporcionando ao usuário uma visão clara de seu potencial retorno.
 
